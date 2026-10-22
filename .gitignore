@@ -4,3 +4,7 @@ adrian_ejemplos
 assets
 yolov8n.pt
 face_detection_yunet_2023mar.onnx
+face_recognition_sface_2021dec.onnx
+bd_vectores/
+bd_vectores/
+face_recognition_sface_2021dec.onnx
